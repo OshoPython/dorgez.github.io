@@ -16,7 +16,7 @@ timezone: Asia/Jerusalem
 
 title: Dor G # the main title
 
-tagline: Stuff i postsssssssss # it will display as the sub-title
+tagline: Diving, Tech, Climate change, Python, Hydrology, Reviews # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Bloging, tech
@@ -42,7 +42,7 @@ social:
     - https://github.com/oshopython # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/dor-gez-36aa02261
 
 google_site_verification: # fill in to your verification string
 
