@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-
-
 Greetings, fellow enthusiasts of exploration and knowledge! I'm Dor, a passionate Water Engineer on a journey to blend the realms of academia and personal discovery. Armed with a BSc degree and a year of hands-on experience in hydrology and project management, my professional journey has been a thrilling blend of academic rigor and real-world application.
 
 ## Academic Roots
