@@ -18,4 +18,4 @@ Whether you're here as part of my LinkedIn network or stumbled upon this digital
 
 Thank you for visiting, and I look forward to sharing the wonders of exploration with you!
 
-
+Dor
