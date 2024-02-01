@@ -8,3 +8,4 @@ tags: [diving]
 
 
 # hello world
+![figure](/images/figure1.jpg){: width="45%"}
