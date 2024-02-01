@@ -8,4 +8,5 @@ tags: [diving]
 
 
 # hello world
-![cheese pizza](/images/figure1.jpg)
+![cheese pizza](/assets/images/figure1.jpg)
+[cheese pizza](/assets/images/figure1.jpg)
