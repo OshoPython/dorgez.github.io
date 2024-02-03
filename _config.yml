@@ -23,10 +23,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: 'https://oshopython.github.io'
+url: 'https://DorGGG.github.io'
 
 github:
-  username: oshopython # change to your github username
+  username: DorGGG # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/oshopython # change to your github homepage
+    - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/dor-gez-36aa02261
@@ -50,7 +50,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: 'G-BX4BFKFT3B' # fill in your Google Analytics ID
+  id: G-X4S36YMX40 # fill in your Google Analytics ID
 
 # Prefer color scheme setting.
 #
@@ -70,10 +70,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/D4E03AQHM2iVNATNcdg/profile-displayphoto-shrink_800_800/0/1705672518081?e=1711584000&v=beta&t=wMToik2qiNP8siabepJiQ15WzMKdIC0iskgG0Lubr48
+avatar: https://media.licdn.com/dms/image/D4E03AQHM2iVNATNcdg/profile-displayphoto-shrink_400_400/0/1705672518081?e=1712188800&v=beta&t=b--GYVx1FkFJ1G7jSxIYfduGUOVY7qijtsDDr5ndWA0
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
