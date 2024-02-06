@@ -8,3 +8,4 @@ Direction:-50
 Blur:33
 Transparcy: 70
 effect color: black
+dimensions 1280 x 720
