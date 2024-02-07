@@ -1,5 +1,5 @@
 ---
-
+layout: mypost
 title: "Unparalleled Visibility and Comfort: The Hollis M-3 Diving Mask Chronicles Seven Years of Underwater Excellence"
 date: 2024-02-04 00:00:00 +0800
 categories: [Diving,Reviews]
