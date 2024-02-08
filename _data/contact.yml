@@ -26,10 +26,14 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
-- type: tiktok
-  icon: 'fab fa-tiktok'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.tiktok.com/@dorpython/'                  # Fill with your Linkedin homepage
+- type: youtube
+  icon: 'fab fa-youtube'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.youtube.com/channel/UCjAcIiw5b-0hPk7xq1rBJVA'                  # Fill with your Linkedin homepage
 
 - type: paypal
   icon: 'fab fa-paypal'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.paypal.com/donate/?hosted_button_id=JQA4UEZLRSVXW'                  # Fill with your Linkedin homepage
+
+- type: twitch
+  icon: 'fab fa-twitch'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.twitch.tv/f0lez'  
