@@ -36,4 +36,9 @@
 
 - type: twitch
   icon: 'fab fa-twitch'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.twitch.tv/f0lez'  
+  url:  'https://www.twitch.tv/f0lez'
+
+- type: medium
+  icon: 'fab fa-medium'   # icons powered by <https://fontawesome.com/>
+  url:  'https://medium.com/subscribe/@DorGe?source=publishing_settings---user_settings----------------------------------'
+
