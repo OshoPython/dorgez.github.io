@@ -11,7 +11,7 @@ image: assets/img/click bait for blog/Review_for_atomic_habits_and_unfkusrlf.png
 
 ## Atomic Habits by James Clear
 
-When diving into James Clear's "Atomic Habits," I found myself nodding along with familiar concepts. It wasn't so much a revelation of new information as it was a powerful reminder of principles I had let slip into the background amidst the chaos of daily routines. Clear's writing style made it an easy read, perfect for those stolen moments during a commute or a brief respite at home. While the content might not have been groundbreaking for me, its timely reinforcement was invaluable. Sometimes we need that gentle nudge to realign our habits with our goals, and "Atomic Habits" provided just that.
+WWhen diving into James Clear's "Atomic Habits," I found myself nodding along with familiar concepts. It wasn't so much a revelation of new information as it was a powerful reminder of principles I had let slip into the background amidst the chaos of daily routines. Clear's writing style made it an easy read, perfect for those stolen moments during a commute or a brief respite at home. While the content might not have been groundbreaking for me, its timely reinforcement was invaluable. Sometimes we need that gentle nudge to realign our habits with our goals, and "Atomic Habits" provided just that.
 
 ## Unfu*k Yourself by Gary John Bishop
 
