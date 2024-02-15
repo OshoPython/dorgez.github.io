@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Honest Review About 'Atomic Habits' and 'UnF*ck Yourself'"
 date: 2024-02-08 00:00:00 +0800
 categories: [Review]
