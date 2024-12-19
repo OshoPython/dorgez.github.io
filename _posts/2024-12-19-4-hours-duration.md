@@ -66,7 +66,7 @@ _*Table 1* :Historical Annual Maximum Series for 4-hour rainfall events at Zichr
 
 
 
-![Figure 2: (1) is the rain data histogram with the fitted GEV distribution (PDF) function. (2) is the GEV distribution CDF with the ECDF of the data for the KS-test result](/pictures/4-hours-duration/4-hours-duration-hytograph.png) 
+![Figure 2: (1) is the rain data histogram with the fitted GEV distribution (PDF) function. (2) is the GEV distribution CDF with the ECDF of the data for the KS-test result](/pictures/4-hours-duration/4-hours-duration-hytographh.png) 
 
 
 
