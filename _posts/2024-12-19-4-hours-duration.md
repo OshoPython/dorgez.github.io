@@ -64,11 +64,11 @@ _*Table 1* :Historical Annual Maximum Series for 4-hour rainfall events at Zichr
 | 2006-2007  | 5.500           |
 | 1995-1996  | 4.188           |
 
-<div style="text-align:center;">
+
 
 ![Figure 2: (1) is the rain data histogram with the fitted GEV distribution (PDF) function. (2) is the GEV distribution CDF with the ECDF of the data for the KS-test result](/pictures/4-hours-duration/4-hours-duration-hytograph.png) 
 
-</div>
+
 
 <div style="text-align:center;">
 <p style="font-style:italic;">Figure 1: Hyetograph analysis precipitation event that occurred in Zichron Yaakov, Israel.</p>
