@@ -98,7 +98,10 @@ However, when we analyze the entire historical data from the Zichron Yaakov rain
 ### Log-normal Distribution
 - Probability Distribution Function:
 
-$$f(x) = \frac{1}{x\sigma\sqrt{2\pi}} \exp\left(-\frac{(\ln x - \mu)^2}{2\sigma^2}\right)$$
+$$
+\text{}f(x) = \frac{1}{x\sigma\sqrt{2\pi}} \exp\left(-\frac{(\ln x - \mu)^2}{2\sigma^2}\right)
+$$
+
 where:
 
 - μ = mean of the natural logarithm of the data
@@ -127,7 +130,11 @@ where:
 
 ### Log-Pearson Type III Distribution
 - Probability Distribution Function:
-$$f(x) = \frac{1}{|β|Γ(α)x} \left(\frac{\ln x - ξ}{β}\right)^{α-1} \exp\left(-\frac{\ln x - ξ}{β}\right)$$
+
+$$
+\text{}f(x) = \frac{1}{|β|Γ(α)x} \left(\frac{\ln x - ξ}{β}\right)^{α-1} \exp\left(-\frac{\ln x - ξ}{β}\right)
+$$
+
 where:
 - α = shape parameter
 - β = scale parameter
@@ -157,7 +164,10 @@ where:
 
 ### Gumbel Distribution (Extreme Value Type I)
 - Probability Distribution Function:
-$$f(x) = \frac{1}{β} \exp\left(-\frac{x - \mu}{β}\right) \exp\left(-\exp\left(-\frac{x - \mu}{β}\right)\right)$$
+
+$$
+\text{}f(x) = \frac{1}{β} \exp\left(-\frac{x - \mu}{β}\right) \exp\left(-\exp\left(-\frac{x - \mu}{β}\right)\right)$$
+
 where:
 - μ = location parameter
 - β = scale parameter
