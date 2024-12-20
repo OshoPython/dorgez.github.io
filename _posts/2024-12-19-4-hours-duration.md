@@ -9,7 +9,6 @@ image: /pictures/4-hours-duration/Copy of Copy of Hydrology.png
 
 
 ---
-# When Statistics Tell Different Stories: The Remarkable Rain Event in Northern Israel
 
 On November 19, 2024, the coastal region of northern Israel experienced an extraordinary rainfall event that shattered records and challenged our understanding of rainfall statistics. As a hydrologist, I found this event particularly fascinating, not just for its intensity, but for what it reveals about how we interpret and use rainfall data for infrastructure design.
 
