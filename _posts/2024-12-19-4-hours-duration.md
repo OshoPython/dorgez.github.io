@@ -201,7 +201,7 @@ These varying results highlight a crucial point in hydrological analysis: the ch
 
 This discrepancy raises important questions for urban planners and engineers:
 - Are we potentially underdesigning when we using a regional IDF's?
-- Or are we putting infrastructure at risk by using more less moderate statistical predictions?
+- Are we putting infrastructure at risk by using less moderate statistical predictions??
 - How do we account for climate change effects on rainfall patterns in our statistical analysis?
 - Should we design infrastructure differently for urban areas versus less populated regions, given the different levels of potential impact?
 
