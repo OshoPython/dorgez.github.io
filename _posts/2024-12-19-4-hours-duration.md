@@ -77,19 +77,19 @@ To answer this question, I applied three different statistical distributions com
 The Intensity-Duration-Frequency (IDF) analysis used for developing new infrastructure design standards in the region suggested that a 4-hour rain event with intensities of 20-23mm/hour should have a probability of occurrence between 0.2% and 0.5% (_Table 2_) - in other words, a return period of 200-500 years.
 
 _*Table 2* :The IDF analysis for shore line region of Israel for infrastructure design:_
-| Return Period | Probability % | 10 min - mm/hour | 15 min - mm/hour | 20 min - mm/hour | 30 min - mm/hour | 45 min - mm/hour | 60 min - mm/hour | 90 min - mm/hour | 120 min - mm/hour | 180 min - mm/hour | 240 min - mm/hour | mm/day |
-|--------------|---------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|-------------------|-------------------|-------------------|---------|
-| 1000 | 0.1% | 259 | 219 | 196 | 153 | 120 | 96 | 66 | 52 | 39 | 29 | 301 |
-| 500 | 0.2% | 229 | 193 | 172 | 135 | 105 | 83 | 58 | 46 | 31 | 23 | 265 |
-| 200 | 0.5% | 193 | 162 | 144 | 113 | 88 | 69 | 48 | 39 | 26 | 20 | 224 |
-| 100 | 1.0% | 168 | 141 | 125 | 98 | 76 | 60 | 42 | 34 | 23 | 18 | 195 |
-| 50 | 2.0% | 146 | 122 | 108 | 85 | 65 | 51 | 36 | 29 | 21 | 16 | 169 |
-| 25 | 4.0% | 126 | 104 | 92 | 72 | 55 | 43 | 31 | 25 | 18 | 14 | 145 |
-| 20 | 5.0% | 120 | 99 | 87 | 69 | 52 | 41 | 30 | 24 | 17 | 14 | 138 |
-| 10 | 10.0% | 101 | 83 | 73 | 57 | 44 | 34 | 25 | 20 | 14 | 12 | 116 |
-| 5 | 20.0% | 84 | 68 | 59 | 47 | 36 | 28 | 21 | 17 | 12 | 10 | 96 |
-| 2 | 50.0% | 61 | 49 | 42 | 33 | 25 | 20 | 15 | 12 | 10 | 8 | 69 |
-| 1.01 | 99.0% | 33 | 25 | 20 | 15 | 12 | 11 | 9 | 7 | 5 | 4 | 36 |
+| Duration | 2 Years | 5 Years | 10 Years | 20 Years | 25 Years | 50 Years | 100 Years | 200 Years | 500 Years | 1000 Years |
+|----------|---------|---------|----------|----------|----------|-----------|------------|------------|------------|------------|
+| 10 min   | 61      | 84      | 101      | 120      | 126      | 146       | 168        | 193        | 229        | 259        |
+| 15 min   | 49      | 68      | 83       | 99       | 104      | 122       | 141        | 162        | 193        | 219        |
+| 20 min   | 42      | 59      | 73       | 87       | 92       | 108       | 125        | 144        | 172        | 196        |
+| 30 min   | 33      | 47      | 57       | 69       | 72       | 85        | 98         | 113        | 135        | 153        |
+| 45 min   | 25      | 36      | 44       | 52       | 55       | 65        | 76         | 88         | 105        | 120        |
+| 60 min   | 20      | 28      | 34       | 41       | 43       | 51        | 60         | 69         | 83         | 96         |
+| 90 min   | 15      | 21      | 25       | 30       | 31       | 36        | 42         | 48         | 58         | 66         |
+| 120 min  | 12      | 17      | 20       | 24       | 25       | 29        | 34         | 39         | 46         | 52         |
+| 180 min  | 10      | 12      | 14       | 17       | 18       | 21        | 23         | 26         | 31         | 39         |
+| 240 min  | 8       | 10      | 12       | 14       | 14       | 16        | 18         | 20         | 23         | 29         |
+| 24 hr    | 69      | 96      | 116      | 138      | 145      | 169       | 195        | 224        | 265        | 301        |
 
 However, when we analyze the entire historical data from the Zichron Yaakov rain station using different statistical distributions, we get surprisingly different results:
 
