@@ -77,20 +77,19 @@ To answer this question, I applied three different statistical distributions com
 The Intensity-Duration-Frequency (IDF) analysis used for developing new infrastructure design standards in the region suggested that a 4-hour rain event with intensities of 20-23mm/hour should have a probability of occurrence between 0.2% and 0.5% (_Table 2_) - in other words, a return period of 200-500 years.
 
 _*Table 2* :The IDF analysis for shore line region of Israel for infrastructure design:_
-
-| Return Period | Probability (%) | 10 min (mm/hr) | 15 min (mm/hr) | 20 min (mm/hr) | 30 min (mm/hr) | 45 min (mm/hr) | 60 min (mm/hr) | 90 min (mm/hr) | 120 min (mm/hr) | 180 min (mm/hr) | 240 min (mm/hr) | mm/day |
-|---------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|-----------------|-----------------|-----------------|---------|
-| 1000          | 0.1           | 127            | 108            | 102            | 97             | 76             | 61             | 46             | 35              | 24              | 20              | 230     |
-| 500           | 0.2           | 118            | 100            | 88             | 87             | 68             | 55             | 41             | 32              | 22              | 18              | 210     |
-| 200           | 0.5           | 106            | 90             | 79             | 75             | 58             | 47             | 35             | 28              | 20              | 17              | 185     |
-| 100           | 1.0           | 98             | 82             | 72             | 67             | 51             | 42             | 31             | 25              | 18              | 15              | 167     |
-| 50            | 2.0           | 89             | 75             | 65             | 58             | 45             | 37             | 28             | 22              | 17              | 14              | 149     |
-| 25            | 4.0           | 80             | 67             | 58             | 51             | 39             | 32             | 24             | 20              | 15              | 13              | 132     |
-| 20            | 5.0           | 77             | 65             | 56             | 48             | 37             | 30             | 23             | 19              | 15              | 12              | 126     |
-| 10            | 10.0          | 69             | 57             | 49             | 41             | 31             | 26             | 20             | 17              | 13              | 11              | 109     |
-| 5             | 20.0          | 59             | 49             | 42             | 34             | 26             | 21             | 17             | 14              | 11              | 9               | 92      |
-| 2             | 50.0          | 45             | 37             | 31             | 24             | 18             | 15             | 12             | 10              | 8               | 7               | 66      |
-| 1.01          | 99.0          | 22             | 18             | 14             | 10             | 8              | 7              | 6              | 5               | 4               | 3               | 29      |
+| Return Period | Probability % | 10 min - mm/hour | 15 min - mm/hour | 20 min - mm/hour | 30 min - mm/hour | 45 min - mm/hour | 60 min - mm/hour | 90 min - mm/hour | 120 min - mm/hour | 180 min - mm/hour | 240 min - mm/hour | mm/day |
+|--------------|---------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|-------------------|-------------------|-------------------|---------|
+| 1000 | 0.1% | 259 | 219 | 196 | 153 | 120 | 96 | 66 | 52 | 39 | 29 | 301 |
+| 500 | 0.2% | 229 | 193 | 172 | 135 | 105 | 83 | 58 | 46 | 31 | 23 | 265 |
+| 200 | 0.5% | 193 | 162 | 144 | 113 | 88 | 69 | 48 | 39 | 26 | 20 | 224 |
+| 100 | 1.0% | 168 | 141 | 125 | 98 | 76 | 60 | 42 | 34 | 23 | 18 | 195 |
+| 50 | 2.0% | 146 | 122 | 108 | 85 | 65 | 51 | 36 | 29 | 21 | 16 | 169 |
+| 25 | 4.0% | 126 | 104 | 92 | 72 | 55 | 43 | 31 | 25 | 18 | 14 | 145 |
+| 20 | 5.0% | 120 | 99 | 87 | 69 | 52 | 41 | 30 | 24 | 17 | 14 | 138 |
+| 10 | 10.0% | 101 | 83 | 73 | 57 | 44 | 34 | 25 | 20 | 14 | 12 | 116 |
+| 5 | 20.0% | 84 | 68 | 59 | 47 | 36 | 28 | 21 | 17 | 12 | 10 | 96 |
+| 2 | 50.0% | 61 | 49 | 42 | 33 | 25 | 20 | 15 | 12 | 10 | 8 | 69 |
+| 1.01 | 99.0% | 33 | 25 | 20 | 15 | 12 | 11 | 9 | 7 | 5 | 4 | 36 |
 
 However, when we analyze the entire historical data from the Zichron Yaakov rain station using different statistical distributions, we get surprisingly different results:
 
@@ -201,7 +200,7 @@ These varying results highlight a crucial point in hydrological analysis: the ch
 
 This discrepancy raises important questions for urban planners and engineers:
 - Are we potentially underdesigning when we using a regional IDF's?
-- Are we putting infrastructure at risk by using less moderate statistical predictions??
+- Or are we putting infrastructure at risk by using more less moderate statistical predictions?
 - How do we account for climate change effects on rainfall patterns in our statistical analysis?
 - Should we design infrastructure differently for urban areas versus less populated regions, given the different levels of potential impact?
 
