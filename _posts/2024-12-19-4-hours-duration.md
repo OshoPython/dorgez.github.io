@@ -78,7 +78,7 @@ The Intensity-Duration-Frequency (IDF) analysis used for developing new infrastr
 
 _*Table 2* :The IDF analysis for shore line region of Israel for infrastructure design:_
 
-| Duration | 2 Years | 5 Years | 10 Years | 20 Years | 25 Years | 50 Years | 100 Years | 200 Years | 500 Years | 1000 Years |
+| Duration | 2 Years | 5 Years | 10 Years | 20 Years | 25 Years | 50 Years  | 100 Years  | 200 Years  | 500 Years  | 1000 Years |
 |----------|---------|---------|----------|----------|----------|-----------|------------|------------|------------|------------|
 | 10 min   | 61      | 84      | 101      | 120      | 126      | 146       | 168        | 193        | 229        | 259        |
 | 15 min   | 49      | 68      | 83       | 99       | 104      | 122       | 141        | 162        | 193        | 219        |
