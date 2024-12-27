@@ -125,7 +125,7 @@ where:
 | 5 hours   | 7.8     | 10.6    | 12.5     | 14.9     | 16.8     | 18.4      | 20.0      | 22.6      | 24.5       |
 | 6 hours   | 6.8     | 9.3     | 10.9     | 13.0     | 14.5     | 16.0      | 17.6      | 19.7      | 21.2       |
 
-**Results: 21.5 mm/hours suggests a 1-2% probability (50-100 year return period)**
+**Results: 21.5 mm/hours suggests a 2-1% probability (50-100 year return period)**
 
 ### Log-Pearson Type III Distribution
 - Probability Distribution Function:
@@ -159,7 +159,7 @@ where:
 | 5 Hours     | 7.56     | 10.50    | 12.66    | 15.64    | 18.04    | 20.62     | 23.39      | 27.39      | 30.70      |
 | 6 Hours     | 6.65     | 9.20     | 11.05    | 13.60    | 15.64    | 17.82     | 20.15      | 23.50      | 26.25      |
 
-**Results: 21.5 mm/hours indicates a 1-2% probability (25-50 year return period)**
+**Results: 21.5 mm/hours indicates a 2-1% probability (50-100 year return period)**
 
 ### Gumbel Distribution (Extreme Value Type I)
 - Probability Distribution Function:
@@ -190,7 +190,7 @@ where:
 | 5 hours   | 7.8     | 10.8    | 12.7    | 15.2     | 17.1     | 18.8     | 20.8      | 23.2      | 25.2      |
 | 6 hours   | 6.8     | 9.4     | 11.1    | 13.2     | 14.8     | 16.4     | 18.0      | 20.1      | 21.7      |
 
-**Results: 21.5 mm/hours shows a 1-2% probability (50-100 year return period)**
+**Results: 21.5 mm/hours shows a 2-1% probability (50-100 year return period)**
 
 - the distribution analysis  waas made on the entire data from the meterological station for a specific duration time series.
 ## Why the Difference Matters
