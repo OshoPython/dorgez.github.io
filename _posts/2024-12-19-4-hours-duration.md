@@ -76,7 +76,7 @@ _*Table 1* :Historical Annual Maximum Series for 4-hour rainfall events at Zichr
 To answer this question, I applied three different statistical distributions commonly used in hydrological analysis. Here's where things get interesting.
 The Intensity-Duration-Frequency (IDF) analysis used for developing new infrastructure design standards in the region suggested that a 4-hour rain event with intensities of 20-23mm/hour should have a probability of occurrence between 0.2% and 0.5% (_Table 2_) - in other words, a return period of 200-500 years.
 
-_*Table 2* :The IDF analysis for shore line region of Israel for infrastructure design:_
+__*Table 2* :The IDF analysis for shore line region of Israel for infrastructure design:__
 
 | Duration | 2 Years | 5 Years | 10 Years | 20 Years | 25 Years | 50 Years  | 100 Years  | 200 Years  | 500 Years  | 1000 Years |
 |----------|---------|---------|----------|----------|----------|-----------|------------|------------|------------|------------|
