@@ -16,9 +16,16 @@
       </div>
       
       <div class="footer-right">
-          <p class="mb-0">
-              💸<a href="https://www.paypal.com/donate/?hosted_button_id=JQA4UEZLRSVXW">Donate</a>
-          </p>
+          <!-- Ko-fi widget script -->
+          <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+          <script>
+              kofiWidgetOverlay.draw('dorhydrog', {
+                  'type': 'floating-chat',
+                  'floating-chat.donateButton.text': 'Coffe me',
+                  'floating-chat.donateButton.background-color': '#323842',
+                  'floating-chat.donateButton.text-color': '#fff'
+              });
+          </script>
       </div>
   </div>
 </footer>
