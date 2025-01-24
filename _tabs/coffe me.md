@@ -1,6 +1,6 @@
 ---
 layou: page
-icon: fa-duotone fa-solid fa-cup-togo
+icon: fa-solid fa-mug-hot
 order: 5
 ---
 
