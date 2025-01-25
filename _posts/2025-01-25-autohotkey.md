@@ -91,7 +91,7 @@ Esc::`  ; Make Escape key type a backtick (`)
 
 You can simulate typing and shortcuts using the `Send` command.
 
-```code
+```python
 ^t::Send, Hello, this is an AutoHotkey script!
 ```
 
