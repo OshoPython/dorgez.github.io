@@ -66,7 +66,7 @@ Example: Open Calculator with `Ctrl + Alt + C`:
 
 AHK is fantastic for fixing typos automatically or expanding shortcuts into full text.
 
-```code
+```
 ::teh::the
 ::brb::Be right back
 ::omw::On my way!
@@ -80,10 +80,9 @@ Now, every time you type `teh`, AHK will automatically replace it with `the`.
 
 If you want to swap keys or disable them, AHK makes it easy.
 
-```code
-CapsLock::Ctrl  ; Turn Caps Lock into a Ctrl key
-Esc::`  ; Make Escape key type a backtick (`)
-```
+`CapsLock::Ctrl  ; Turn Caps Lock into a Ctrl key.`
+
+`Esc::F7  ; Make Escape key type a F7`
 
 ---
 
@@ -91,9 +90,7 @@ Esc::`  ; Make Escape key type a backtick (`)
 
 You can simulate typing and shortcuts using the `Send` command.
 
-```python
-^t::Send, Hello, this is an AutoHotkey script!
-```
+`^t::Send, Hello, this is an AutoHotkey script!`
 
 This sends the text when you press `Ctrl + T`.
 
