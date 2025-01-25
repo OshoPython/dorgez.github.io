@@ -74,6 +74,12 @@ AHK is fantastic for fixing typos automatically or expanding shortcuts into full
 ::omw::On my way!
 ```
 
+```python 
+Estimated Location: -0.53
+Estimated Scale: 49.28
+Estimated Shape: 11.49
+```
+
 Now, every time you type `teh`, AHK will automatically replace it with `the`.
 
 ---
