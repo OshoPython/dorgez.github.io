@@ -196,3 +196,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
