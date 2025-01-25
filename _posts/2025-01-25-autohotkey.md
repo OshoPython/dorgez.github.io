@@ -33,7 +33,7 @@ To use AutoHotkey, download and install it from [https://www.autohotkey.com/](ht
 
 Hotkeys allow you to execute actions with a simple key combination. Here’s how you create one:
 
-```code
+```
 ; This script opens Notepad when you press Win + N
 #n::Run Notepad
 ```
@@ -56,7 +56,7 @@ Hotkeys allow you to execute actions with a simple key combination. Here’s how
 
 Example: Open Calculator with `Ctrl + Alt + C`:
 
-```code
+```
 ^!c::Run Calc
 ```
 
@@ -74,11 +74,6 @@ AHK is fantastic for fixing typos automatically or expanding shortcuts into full
 ::omw::On my way!
 ```
 
-```python 
-Estimated Location: -0.53
-Estimated Scale: 49.28
-Estimated Shape: 11.49
-```
 
 Now, every time you type `teh`, AHK will automatically replace it with `the`.
 
@@ -87,18 +82,20 @@ Now, every time you type `teh`, AHK will automatically replace it with `the`.
 ## 3. Remapping Keys
 
 If you want to swap keys or disable them, AHK makes it easy.
-
+```
 `CapsLock::Ctrl  ; Turn Caps Lock into a Ctrl key.`
 
 `Esc::F7  ; Make Escape key type a F7`
+```
 
 ---
 
 ## 4. Sending Keystrokes
 
 You can simulate typing and shortcuts using the `Send` command.
-
+```
 `^t::Send, Hello, this is an AutoHotkey script!`
+```
 
 This sends the text when you press `Ctrl + T`.
 
@@ -108,7 +105,7 @@ This sends the text when you press `Ctrl + T`.
 
 Quickly open apps or websites with hotkeys:
 
-```code
+```
 #b::Run https://www.bing.com
 ```
 
@@ -118,7 +115,7 @@ Quickly open apps or websites with hotkeys:
 
 Display a popup message:
 
-```code
+```
 F2::MsgBox, Hello! This is an AutoHotkey message box.
 ```
 
@@ -128,7 +125,7 @@ F2::MsgBox, Hello! This is an AutoHotkey message box.
 
 Automate repetitive tasks with loops.
 
-```code
+```
 F3::
 Loop 5
 {
