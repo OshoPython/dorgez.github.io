@@ -139,7 +139,8 @@ Press `F3`, and it will type "Hello!" five times, pausing for one second between
 
 ---
 ## Video 
-
+In Progress
+---
 ## Conclusion
 
 AutoHotkey is an incredible tool that can supercharge your workflow. This guide just scratches the surface. Experiment with these scripts, tweak them, and soon you'll be automating your tasks like a pro!
