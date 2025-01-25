@@ -68,7 +68,9 @@ AHK is fantastic for fixing typos automatically or expanding shortcuts into full
 
 ```
 ::teh::the
+
 ::brb::Be right back
+
 ::omw::On my way!
 ```
 
