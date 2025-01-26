@@ -165,7 +165,7 @@ AutoHotkey is an incredible tool that can supercharge your workflow. This guide 
 # GUI for download 🌻🌼
 you can download a GUI i created in my Ko-Fi link below~
 
-its free or you can leave tip if you find this tool useful for you :smile: enjoy!
+its free or you can leave tip if you find this tool useful for you 😃 enjoy!
 
 
 ☕ Ko-Fi: [DOWNLOAD HERE](https://ko-fi.com/s/2a91c21686)
