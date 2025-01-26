@@ -141,6 +141,7 @@ Press `F3`, and it will type "Hello!" five times, pausing for one second between
 ## Video 
 In Progress
 
+{% include youtube.html id="F8iOU1ci19Q" %}
 ---
 
 ## Conclusion
