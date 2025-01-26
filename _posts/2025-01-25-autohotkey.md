@@ -12,12 +12,14 @@ image: /pictures/AHK-productivity/AHK_banner_for_website.png
 
 ## Video 
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/NYMqYVx0ivo" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe>
+<div style="text-align: center">
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/NYMqYVx0ivo" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+  </iframe>
+</div>
 
 ## Introduction
 
@@ -157,5 +159,7 @@ AutoHotkey is an incredible tool that can supercharge your workflow. This guide 
 
 ## Gui for download~
 download it for free or leave a tip if you find this tool useful enjoy
+
 Ko-Fi: [DOWNLOAD HERE](https://ko-fi.com/s/2a91c21686)
+
 Happy scripting! 🚀
