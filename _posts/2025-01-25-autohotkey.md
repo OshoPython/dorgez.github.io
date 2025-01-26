@@ -10,7 +10,7 @@ image: /pictures/AHK-productivity/AHK_banner_for_website.png
 
 ---
 
-## Video :tv:
+## Video 📺
 
 <div style="text-align: center">
   <iframe width="735" height="431"
@@ -21,14 +21,14 @@ image: /pictures/AHK-productivity/AHK_banner_for_website.png
   </iframe>
 </div>
 
-:tv: 
+📺 
 [Watch here](https://www.youtube.com/embed/NYMqYVx0ivo)
 
 ## Introduction 
 
 Ever wished you could automate repetitive tasks on your computer? Whether it's fixing typos, launching apps with a keystroke, or creating powerful macros, **AutoHotkey (AHK)** is the perfect tool. It's lightweight, powerful, and easy to learn. In this guide, we'll explore the basics of AHK syntax and help you get started with simple yet effective scripts.
 
-## What is AutoHotkey? :eyes:
+## What is AutoHotkey? 👀
 
 AutoHotkey is a free scripting language for Windows that lets you automate tasks using hotkeys, macros, and text expansion. You can:
 
@@ -49,6 +49,7 @@ Hotkeys allow you to execute actions with a simple key combination. Here’s how
 
 ```
 ; This script opens Notepad when you press Win + N
+;
 
 #n::Run Notepad
 ```
@@ -161,12 +162,12 @@ Press `F3`, and it will type "Hello!" five times, pausing for one second between
 
 AutoHotkey is an incredible tool that can supercharge your workflow. This guide just scratches the surface. Experiment with these scripts, tweak them, and soon you'll be automating your tasks like a pro!
 
-# GUI for download :sunflower:
+# GUI for download 🌻🌼
 you can download a GUI i created in my Ko-Fi link below~
 
 its free or you can leave tip if you find this tool useful for you :smile: enjoy!
 
 
-:coffee: Ko-Fi: [DOWNLOAD HERE](https://ko-fi.com/s/2a91c21686)
+☕ Ko-Fi: [DOWNLOAD HERE](https://ko-fi.com/s/2a91c21686)
 
 Happy scripting! 🚀
