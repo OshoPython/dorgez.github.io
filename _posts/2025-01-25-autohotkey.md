@@ -13,7 +13,7 @@ image: /pictures/AHK-productivity/AHK_banner_for_website.png
 ## Video 
 
 <div style="text-align: center">
-  <iframe width="560" height="315"
+  <iframe width="735" height="431"
   src="https://www.youtube.com/embed/NYMqYVx0ivo" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -159,7 +159,10 @@ Press `F3`, and it will type "Hello!" five times, pausing for one second between
 AutoHotkey is an incredible tool that can supercharge your workflow. This guide just scratches the surface. Experiment with these scripts, tweak them, and soon you'll be automating your tasks like a pro!
 
 # GUI for download
-download it for free or leave a tip if you find this tool useful enjoy
+you can download a GUI i created in my Ko-Fi link below~
+
+its free or you can leave tip if you find this tool useful for you :smile: enjoy!
+
 
 Ko-Fi: [DOWNLOAD HERE](https://ko-fi.com/s/2a91c21686)
 
