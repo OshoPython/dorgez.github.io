@@ -46,6 +46,7 @@ Hotkeys allow you to execute actions with a simple key combination. Here’s how
 
 ```
 ; This script opens Notepad when you press Win + N
+
 #n::Run Notepad
 ```
 
@@ -157,7 +158,7 @@ Press `F3`, and it will type "Hello!" five times, pausing for one second between
 
 AutoHotkey is an incredible tool that can supercharge your workflow. This guide just scratches the surface. Experiment with these scripts, tweak them, and soon you'll be automating your tasks like a pro!
 
-## Gui for download~
+# GUI for download
 download it for free or leave a tip if you find this tool useful enjoy
 
 Ko-Fi: [DOWNLOAD HERE](https://ko-fi.com/s/2a91c21686)
