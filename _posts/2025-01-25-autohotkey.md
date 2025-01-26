@@ -141,7 +141,13 @@ Press `F3`, and it will type "Hello!" five times, pausing for one second between
 ## Video 
 In Progress
 
-{% include youtube.html id="F8iOU1ci19Q" %}
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/F8iOU1ci19Q" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+
 ---
 
 ## Conclusion
