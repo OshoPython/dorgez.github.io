@@ -10,6 +10,15 @@ image: /pictures/AHK-productivity/AHK_banner_for_website.png
 
 ---
 
+## Video 
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/NYMqYVx0ivo" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+
 ## Introduction
 
 Ever wished you could automate repetitive tasks on your computer? Whether it's fixing typos, launching apps with a keystroke, or creating powerful macros, **AutoHotkey (AHK)** is the perfect tool. It's lightweight, powerful, and easy to learn. In this guide, we'll explore the basics of AHK syntax and help you get started with simple yet effective scripts.
@@ -138,20 +147,15 @@ return
 Press `F3`, and it will type "Hello!" five times, pausing for one second between each.
 
 ---
-## Video 
-In Progress
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/F8iOU1ci19Q" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe>
 
----
+
 
 ## Conclusion
 
 AutoHotkey is an incredible tool that can supercharge your workflow. This guide just scratches the surface. Experiment with these scripts, tweak them, and soon you'll be automating your tasks like a pro!
 
+## Gui for download~
+download it for free or leave a tip if you find this tool useful enjoy
+Ko-Fi: [DOWNLOAD HERE](https://ko-fi.com/s/2a91c21686)
 Happy scripting! 🚀
