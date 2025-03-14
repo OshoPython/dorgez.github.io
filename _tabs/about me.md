@@ -1,13 +1,9 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fa-solid fa-address-card
 order: 4
 ---
-
-# About Me
-
 ## My Journey
-
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1.3; margin-right: 20px; display: flex; align-items: center; height: 100%;">
     <p style="margin: 0; line-height: 1.6; font-size: 22px;">Before pursuing my water engineering degree, I embarked on an 8-month adventure across Southeast Asia. Traveling through Sri Lanka, India, Singapore, the Philippines, and Vietnam opened my eyes to different cultures and perspectives I couldn't have experienced any other way.</p>
