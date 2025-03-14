@@ -19,7 +19,7 @@ order: 4
 
 
 
-During this journey, I discovered my passion for diving, particularly in the Philippines, where I challenged myself in some remarkable underwater environments. These experiences beneath the surface connected me to marine ecosystems in ways that continue to influence my perspective today..
+During this journey, I discovered my passion for diving, particularly in the Philippines, where I challenged myself in some remarkable underwater environments. These experiences beneath the surface connected me to marine ecosystems in ways that continue to influence my perspective today.
 
 Later, I pursued my water engineering degree, which despite the challenges of managing ADHD, allowed me to develop expertise in hydrology and environmental systems. This academic foundation has proven invaluable for my current work and ongoing interests.
 
