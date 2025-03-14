@@ -6,20 +6,50 @@ order: 4
 
 # About Me
 
-Greetings, fellow enthusiasts of exploration and knowledge! I'm Dor, a passionate Water Engineer on a journey to blend the realms of academia and personal discovery. Armed with a BSc degree and a year of hands-on experience in hydrology and project management, my professional journey has been a thrilling blend of academic rigor and real-world application.
+## My Journey
 
-## Academic Roots
-My academic foundation is rooted in the intricacies of water engineering. Armed with a Bachelor's degree, I specialize in hydrology, runoff, and drainage management. My proficiency extends beyond textbooks into the realm of programming, where I wield the power of MATLAB and Python to unravel complex hydrological puzzles. This academic prowess has equipped me with the skills to deliver detailed reports, intricate calculations, and innovative design solutions.
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1.3; margin-right: 20px; display: flex; align-items: center; height: 100%;">
+    <p style="margin: 0; line-height: 1.6; font-size: 22px;">Before pursuing my water engineering degree, I embarked on an 8-month adventure across Southeast Asia. Traveling through Sri Lanka, India, Singapore, the Philippines, and Vietnam opened my eyes to different cultures and perspectives I couldn't have experienced any other way.</p>
+  </div>
+  <div style="flex: 0.7;">
+    <img src="../pictures/aboutme/cropped_image_enhanced.png" alt="Traveling in Southeast Asia" style="max-width: 100%; height: auto; border-radius: 50%;">
+  </div>
+</div>
 
-## Professional Expedition
-My professional journey includes a proven track record in delivering meticulous reports, leveraging technology for optimal results in water engineering. Specializing in hydrology, I've successfully navigated the realms of on-site inspections for hydrology drilling projects, demonstrating an unwavering commitment to excellence. I am driven by a desire to contribute my expertise in cutting-edge technologies to advance water management solutions.
 
-## Diverse Interests
-Beyond the world of hydrology and engineering, my blog serves as a canvas for diverse interests. Prepare to embark on a journey through my experiences in diving, coding adventures, and insightful reviews. Each post is crafted with the intent of not only sharing knowledge but also fostering a sense of curiosity and camaraderie among readers.
 
-## Join the Exploration
-Whether you're here as part of my LinkedIn network or stumbled upon this digital haven by chance, I extend a warm welcome. Together, let's delve into the depths of hydrology, unravel the intricacies of code, explore the underwater wonders, and engage in the art of critical review. Join me on this intellectual expedition as we navigate the crossroads of academia and personal expression.
+During this journey, I discovered my passion for diving, particularly in the Philippines, where I challenged myself in some remarkable underwater environments. These experiences beneath the surface connected me to marine ecosystems in ways that continue to influence my perspective today.
 
-Thank you for visiting, and I look forward to sharing the wonders of exploration with you!
+Later, I pursued my water engineering degree, which despite the challenges of managing ADHD, allowed me to develop expertise in hydrology and environmental systems. This academic foundation has proven invaluable for my current work and ongoing interests.
 
-Dor
+## Growth Through Experience
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0.7; margin-right: 20px;">
+    <img src="../pictures/aboutme/13228018933 (1).png" alt="Traveling in Southeast Asia" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1.3;">
+    <p style="margin: 0; line-height: 1.6; font-size: 22px;">Traveling solo across Southeast Asia pushed me well beyond my comfort zone. Each new location presented unique challenges that required adaptability and openness. The diving experiences in particular taught me to stay calm under pressure and appreciate the delicate balance of natural systems.</p>
+  </div>
+</div>
+
+My academic journey presented different kinds of challenges. Working through a technical degree while managing ADHD showed me the power of persistence and helped me develop systems to tackle complex problems. This period opened doors to subjects I never expected would become central to my professional life.
+
+These experiences—from traveling to diving to academic work—have shaped my approach to problem-solving and my appreciation for both technological and natural systems.
+
+## Where My Interests Meet
+
+This website is where my diverse interests converge. My childhood fascination with computers naturally evolved into my interest in coding and technology. My diving experiences fostered a deep connection to environmental conservation. My academic background in water engineering provides the technical foundation for my work in hydrology.
+
+All these elements inform the content I share here—from technical articles to environmental perspectives, from productivity approaches to experiences in the field.
+
+## Today
+
+Currently, I work as a hydrology consultant specializing in runoff management for new construction in urban areas. This role allows me to apply my water engineering knowledge to practical challenges in sustainable development.
+
+Beyond my professional work, I continue to explore and share knowledge across my areas of interest: technology, diving, climate change, Python, hydrology, and productivity. This site serves as a platform where I can document these explorations and connect with others who share similar interests.
+
+I created this space not just to share information, but to build connections. Whether you're here for technical insights, environmental discussions, or simply exploring new ideas, I hope you'll find something valuable.
+
+I'm always open to collaboration and exchange of ideas, so feel free to reach me out.
