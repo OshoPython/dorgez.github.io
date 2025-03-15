@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fa-solid fa-address-card
-order: 4
+order: 2
 ---
 ## My Journey
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
