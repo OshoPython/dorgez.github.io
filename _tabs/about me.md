@@ -20,9 +20,7 @@ section {
   font-family: 'Montserrat', 'Raleway', sans-serif;
   font-weight: 600;
   }
-  body, p {
-  font-family: 'Open Sans', 'Lato', sans-serif;
-  }
+
   /* Adding custom styles that will apply within the Markdown */
   .feature-text {
     font-size: 22px;
@@ -35,7 +33,7 @@ section {
   }
 
   img:hover {
-    transform: scale(1.02);
+    transform: scale(1.10);
   }
 
   h1 { font-size: 2.5rem; }
