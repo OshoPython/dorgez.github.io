@@ -5,18 +5,55 @@ order: 2
 ---
 
 <style>
+section {
+  padding: 2rem 0;
+  border-radius: 8px;
+  margin-bottom: 3rem;
+}
+
+.highlight-section {
+  padding-left: 1rem;
+  border-left: 3px solid var(--accent);
+}
+
+  h1, h2, h3 {
+  font-family: 'Montserrat', 'Raleway', sans-serif;
+  font-weight: 600;
+  }
+  body, p {
+  font-family: 'Open Sans', 'Lato', sans-serif;
+  }
   /* Adding custom styles that will apply within the Markdown */
   .feature-text {
     font-size: 22px;
     line-height: 1.6;
     margin: 0;
   }
-  
+  img {
+  transition: transform 0.3s ease;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  }
+
+  img:hover {
+    transform: scale(1.02);
+  }
+
+  h1 { font-size: 2.5rem; }
+  h2 { font-size: 2rem; }
+  h3 { font-size: 1.5rem; }
+  p { font-size: 1.125rem; }
+  .feature-text { font-size: 1.35rem; }
   .section-divider {
     border-top: 1px solid #292929;
     margin: 2rem 0;
   }
-  
+
+  p {
+  max-width: 70ch; /* Roughly 70 characters per line */
+  margin-left: auto;
+  margin-right: auto;
+  }
+
   .final-section {
     background-color: #292929;
     padding: 20px;
@@ -74,7 +111,7 @@ These experiences—from traveling to diving to academic work—have shaped my a
 
 <div class="section-divider"></div>
 
-## Where My Interests Meet
+## Where My Interests Meet Into This Website
 
 This website is where my diverse interests converge. My childhood fascination with computers naturally evolved into my interest in coding and technology. My diving experiences fostered a deep connection to environmental conservation. My academic background in water engineering provides the technical foundation for my work in hydrology.
 
