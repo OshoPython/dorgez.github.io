@@ -48,4 +48,4 @@ Beyond my professional work, I continue to explore and share knowledge across my
 
 I created this space not just to share information, but to build connections. Whether you're here for technical insights, environmental discussions, or simply exploring new ideas, I hope you'll find something valuable.
 
-I'm always open to collaboration and exchange of ideas, so feel free to reach me out.
+I'm always open to collaboration and exchange of ideas, so Feel free to contact me.
