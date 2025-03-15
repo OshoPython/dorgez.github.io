@@ -5,6 +5,36 @@ order: 2
 ---
 
 <style>
+/* Typewriter effect styling */
+.typewriter-text {
+  overflow: hidden;
+  border-right: 0.08em solid #3498db; /* The cursor */
+  white-space: nowrap;
+  margin: 0;
+  display: inline-block;
+  animation: 
+    typing 2.55s steps(40, end),
+    blink-caret 0.75s step-end infinite;
+}
+
+/* The typing animation */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor animation */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color:rgb(247, 247, 247); }
+}
+
+/* Wrapper to contain the animated heading properly */
+.typewriter-wrapper {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
 section {
   padding: 2rem 0;
   border-radius: 8px;
@@ -92,7 +122,7 @@ Later, I pursued my water engineering degree, which despite the challenges of ma
 
 <div class="section-divider"></div>
 
-## Growth Through Experience
+<h2> Growth Through Experience </h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;" class="flex-container">
   <div style="flex: 0.7; margin-right: 20px;" class="flex-image">
@@ -127,4 +157,55 @@ All these elements inform the content I share here—from technical articles to 
   <p>I created this space not just to share information, but to build connections. Whether you're here for technical insights, environmental discussions, or simply exploring new ideas, I hope you'll find something valuable.</p>
 
   <p>I'm always open to collaboration and exchange of ideas, so feel free to contact me.</p>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Select all headings to animate
+    const headings = document.querySelectorAll('h2');
+    
+    // Set up Intersection Observer for scroll-based animation
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        // If the heading is now visible
+        if (entry.isIntersecting) {
+          // Get the heading element
+          const heading = entry.target;
+          
+          // Only animate if it hasn't been animated yet
+          if (!heading.classList.contains('animated')) {
+            // Mark as animated
+            heading.classList.add('animated');
+            
+            // Store original text
+            const originalText = heading.textContent;
+            heading.textContent = '';
+            
+            // Create animated elements
+            const wrapper = document.createElement('div');
+            wrapper.className = 'typewriter-wrapper';
+            
+            const typewriterSpan = document.createElement('span');
+            typewriterSpan.className = 'typewriter-text';
+            typewriterSpan.textContent = originalText;
+            
+            // Replace heading content with animated structure
+            wrapper.appendChild(typewriterSpan);
+            heading.appendChild(wrapper);
+            
+            // Stop observing this heading
+            observer.unobserve(heading);
+          }
+        }
+      });
+    }, {
+      // Start animation when heading is 20% visible
+      threshold: 0.2
+    });
+    
+    // Start observing each heading
+    headings.forEach(heading => {
+      observer.observe(heading);
+    });
+  });
+</script>
+
 </div>
