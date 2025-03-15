@@ -1,7 +1,7 @@
 ---
 layou: page
 icon: fa-solid fa-mug-hot
-order: 3
+order: 4
 ---
 
 <div class="coffee-container">
